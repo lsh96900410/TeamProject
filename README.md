@@ -8,13 +8,13 @@
 <img src="https://img.shields.io/badge/eclipse se-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### ERD
-![고려호텔 erd](https://github.com/lsh96900410/aaa/assets/133841235/e525d83e-26e1-4759-9874-2617171c9cf7)
+![고려호텔 erd](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/4e9c1221-7417-4314-b187-10e82ec9ddbe)
 <br/>
 ### 주요기능
 | 객실 페이지 | 문의 페이지 |
 |:--------:|:----------:|
-|![고려호텔 룸페이지1](https://github.com/lsh96900410/aaa/assets/133841235/df7297d0-1b14-4cdb-b90f-d6043dec6909)|![고려호텔 고객센터 문의](https://github.com/lsh96900410/aaa/assets/133841235/7b3af44e-7f07-435b-8166-bb1a332c67ee)|
-|![고려호텔 룸페이지 2](https://github.com/lsh96900410/aaa/assets/133841235/d94f0a33-d7e1-4b98-95ea-c4e4de2d32cf)|![고려호텔 고객센터](https://github.com/lsh96900410/aaa/assets/133841235/0ce82b8b-2f80-4156-8313-0f8aea6f8f47)|
+|![고려호텔 룸페이지1](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/1e3f61bb-b186-43ca-abad-f1455574801c)|![고려호텔 고객센터 문의](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/2b9b7de3-3952-4a76-bfe5-069db34d86fe)|
+|![고려호텔 룸페이지 2](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/a4c47c05-eae8-42af-850d-939ea60f17c5)|![고려호텔 고객센터](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/bafeec18-751d-461d-9cf0-2ed065225a57)|
 
 
 
@@ -34,8 +34,8 @@
 
 
 ### ERD
-![KakaoTalk_20240313_162710560](https://github.com/lsh96900410/aaa/assets/133841235/1b532a16-d13b-4716-bf87-f365535577c6)  
+![KakaoTalk_20240313_162710560](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/0f3a4d10-77a7-415d-97b6-266495725a47)
 ### 주요기능
 | 메인 페이지 | 베트스 상품/카테고리 페이지 | 개별 상품 페이지 |
 |--------|----------|----------|
-| ![헬린이들 메인페이지](https://github.com/lsh96900410/aaa/assets/133841235/e58f3d81-7ee7-43b1-9a34-19a5c142bf53)|![헬린이들 제품 카테고리](https://github.com/lsh96900410/aaa/assets/133841235/171c0351-e439-42dd-b191-77dc64477558)|![헬린이들 제품 카테고리 2](https://github.com/lsh96900410/aaa/assets/133841235/0783d3dd-7f42-470a-8005-d44bb1a59510)|
+|![헬린이들 메인페이지](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/e1368294-1680-4c00-8149-0825fb1acdc0)|![헬린이들 제품 카테고리](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/8be4936f-0655-47da-8f61-53dfd5c83398)|![헬린이들 제품 카테고리 2](https://github.com/lsh96900410/SpringSecurity-JWT/assets/133841235/0a37c442-a72d-4176-ba01-3e376a3aadae)|
